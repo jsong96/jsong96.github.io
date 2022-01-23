@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jiwon Song
+name: 송지원 (Jiwon Song)
 title: Software Developer
 email: woon7743@gmail.com
 website: www.jsong96.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 about_title: About Me
-#about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Java</mark> and <mark>Python</mark>
@@ -55,27 +55,31 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: OS-page replacement simulator
         link: https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-
         quote: >
           This is a simulator to ...
         description: | # this will include new lines to allow paragraphs
           This project is for ...
       
-      - layout: top-middle
+      - layout: left
         title: Madison Metro analysis module
         link: https://github.com/jsong96/Madison_metro
         quote: >
           This module ...
         description: | 
           This project is for ...
+
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: Backend
+
+      - layout: left
+        title: DevOps
+
 
   - title: Education 
     layout: list 
