@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 송지원 (Jiwon Song)
-title: Software Developer
+title: Software Developer (신입)
 email: woon7743@gmail.com
 website: www.jsong96.github.io
 
@@ -177,6 +177,7 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - League of Legends 
       - Guitar and Bass 
+      - Badger
 
 # Footer
 footer_show_references: true
