@@ -49,6 +49,7 @@ about_title: About Me
 about_profile_image: images/bucky.png
 about_content: | # this will include new lines to allow paragraphs
   I am a recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
+  
   열정을 가지고 백엔드의 길을 걷고 있는 신입개발자입니다.
 
 content:
@@ -147,7 +148,7 @@ content:
       - layout: left
         title: University of Wisconsin - Madison
         caption: 2015 - 2021
-        sub_title: Computer Science
+        sub_title: Computer Science (BA)
         description: |
           * Introduction to Algorithm 
           * Introduction to Artificial Intelligence
