@@ -56,7 +56,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Madison Metro analysis module (Academic)
+        caption: 02/2020 - 03/2020
+        quote: > 
+          https://github.com/jsong96/Madison_metro
+        description: | 
+          * Built a python module that analyzes the Madison metro system using the matplotlib
+          and pandas library
+          * Was able to visualize bus trips by route, compare weekend service to weekday
+          service, and visualize bus stops, distinguishing which ones are wheelchair
+          accessible
+          * 위스콘신 주 메디슨 시에서 운행중인 메트로 데이터를 사용해 메디슨 내 메트로를 visualize 해주는 python 모듈
+
+
+      - layout: left
         title: OS-page replacement simulator (Academic)
+        caption: 11/2020 - 12/2020
         quote: >
           https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
         description: | # this will include new lines to allow paragraphs
@@ -69,21 +84,10 @@ content:
           results from all three different algorithms
           * OS 내에서 사용되는 여러 페이징 알고리즘 성능을 비교분석하는 프로그램 개발 (Linux 환경)
           * 프로그램 구조 설계 및 프론트엔드 개발
-      
-      - layout: left
-        title: Madison Metro analysis module (Academic)
-        quote: >
-          https://github.com/jsong96/Madison_metro
-        description: | 
-          * Built a python module that analyzes the Madison metro system using the matplotlib
-          and pandas library
-          * Was able to visualize bus trips by route, compare weekend service to weekday
-          service, and visualize bus stops, distinguishing which ones are wheelchair
-          accessible
-          * 위스콘신 주 메디슨 시에서 운행중인 메트로 데이터를 사용해 메디슨 내 메트로를 visualize 해주는 python 모듈
 
       - layout: left
         title: IoT Tracking Web Application (Academic)
+        caption: 01/2021 - 05/2021
         quote: >
           https://github.com/rachelhon/iot
         description: |
@@ -97,6 +101,7 @@ content:
 
       - layout: left
         title: Full-stack Note Application (Personal)
+        caption: 07/2021 - 08/2021
         quote: >
           https://github.com/jsong96/reactnotes-frontend
           https://github.com/jsong96/reactnotes-backend
@@ -109,6 +114,7 @@ content:
 
       - layout: left
         title: Full-stack E-commerce Application (Personal)
+        caption: 12/2021 - 01/2022
         quote: >
           https://github.com/jsong96/e-commerce-frontend
           https://github.com/jsong96/e-commerce-backend
