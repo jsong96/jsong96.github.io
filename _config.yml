@@ -84,9 +84,13 @@ content:
     content:
       - layout: left
         title: Backend
+        description: |
+          In backend, I can do ....
 
       - layout: left
         title: Frontend
+        description: |
+          In frontend, I can do ...
 
   - title: Programming languages
     layout: list
