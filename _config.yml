@@ -59,13 +59,33 @@ content:
         title: OS-page replacement simulator
         link: https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
         description: | # this will include new lines to allow paragraphs
-          This project is for ...
+          Built an algorithm simulator to simulate performances of three different algorithms:
+          Least Recently Used, Clock, First In First Out using C language in Linux environment
+          with a partner
+          I was responsible for Implementing input file reading and parsing and designed the
+          overall data structure workflow
+          Successfully implemented the required feature and got expecting performance
+          results from all three different algorithms
       
       - layout: left
         title: Madison Metro analysis module
         link: https://github.com/jsong96/Madison_metro
         description: | 
-          This project is for ...
+          Built a python module that analyzes the Madison metro system using the matplotlib
+          and pandas library
+          Was able to visualize bus trips by route, compare weekend service to weekday
+          service, and visualize bus stops, distinguishing which ones are wheelchair
+          accessible
+
+      - layout: left
+        title: IoT Tracking Web Application
+        link:
+        description: |
+          Participated in a semester-long team project to build a full-stack web application
+          following the traditional waterfall workflow
+          I was responsible for backend developing using Node js, Express js and Mongo DB
+          Successfully implemented user sign-in/up feature as well as REST API to send data
+          back and forth with frontend layer
 
       - layout: left
         title: Full stack Note application
