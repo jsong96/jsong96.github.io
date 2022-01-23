@@ -71,7 +71,8 @@ content:
       
       - layout: left
         title: Madison Metro analysis module
-        link: https://github.com/jsong96/Madison_metro
+        quote: >
+          https://github.com/jsong96/Madison_metro
         description: | 
           * Built a python module that analyzes the Madison metro system using the matplotlib
           and pandas library
@@ -81,7 +82,8 @@ content:
 
       - layout: left
         title: IoT Tracking Web Application
-        link:
+        quote: >
+          https://github.com/rachelhon/iot
         description: |
           * Participated in a semester-long team project to build a full-stack web application
           following the traditional waterfall workflow
@@ -91,14 +93,16 @@ content:
 
       - layout: left
         title: Full stack Note application
-        link: https://github.com/jsong96/reactnotes-frontend
+        quote: >
+          https://github.com/jsong96/reactnotes-frontend
         description: |
           * Build a full-stack note application using Spring framework for the backend and React for the frontend to learn about Spring framework
           * Successfully deployed the note application through Heroku
 
       - layout: left
-        titel: Full stack E-commerce 
-        link: https://github.com/jsong96/e-commerce-frontend
+        title: Full stack E-commerce 
+        quote: >
+          https://github.com/jsong96/e-commerce-frontend
         description: |
           * TODO: working on description
 
@@ -119,22 +123,6 @@ content:
         description: |
           * React JS, Angular JS
           * npm, yarn
-
-  - title: Programming languages
-    layout: list
-    content: 
-      - layout: left
-        title: Java
-
-      - layout: left
-        title: Python
-
-      - layout: left
-        title: C/C++
-
-      - layout: left
-        title: MySQL
-
 
   - title: Education 
     layout: list 
