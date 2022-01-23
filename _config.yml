@@ -141,7 +141,15 @@ content:
         caption: 2015- 2021
         sub_title: Computer Science
         description: |
-          UW - Madison
+          Introduction to Algorithm 
+
+          Introduction to Artificial Intelligence
+
+          Introduction to Programming languages and Compilers
+
+          Software Engineering
+          
+          Data Programming Data Management Systems
 
   - title: A Little More About Me
     layout: text
