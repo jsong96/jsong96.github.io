@@ -30,10 +30,10 @@ linkedin_username: https://www.linkedin.com/in/jiwon-song-a098a31b1/
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,29 +46,37 @@ additional_links:
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-
-  I am most skilled in: <mark>Java</mark> and <mark>Python</mark>
+  I am a recent graduate of University of Wisconsin - Madison with Bachelor's degree on Computer Science.
+  Currently pursuing a way to ...
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: OS-page replacement simulator
         link: https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
-        quote: >
-          This is a simulator to ...
         description: | # this will include new lines to allow paragraphs
           This project is for ...
       
       - layout: left
         title: Madison Metro analysis module
         link: https://github.com/jsong96/Madison_metro
-        quote: >
-          This module ...
         description: | 
+          This project is for ...
+
+      - layout: left
+        title: Full stack Note application
+        link: 
+        description: |
+          This project is for ...
+
+      - layout: left
+        titel: Full stack E-commerce 
+        link:
+        description: |
           This project is for ...
 
   - title: Skill
@@ -78,7 +86,22 @@ content:
         title: Backend
 
       - layout: left
-        title: DevOps
+        title: Frontend
+
+  - title: Programming languages
+    layout: list
+    content: 
+      - layout: left
+        title: Java
+
+      - layout: left
+        title: Python
+
+      - layout: left
+        title: C/C++
+
+      - layout: left
+        title: MySQL
 
 
   - title: Education 
