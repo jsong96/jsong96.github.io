@@ -10,7 +10,6 @@ name: 송지원 (Jiwon Song)
 title: Software Developer
 email: woon7743@gmail.com
 website: www.jsong96.github.io
-phone number: (+82) 010-6248-6402 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -49,15 +48,15 @@ linkedin_username: https://www.linkedin.com/in/jiwon-song-a098a31b1/
 about_title: About Me
 about_profile_image: images/java.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a recent graduate of University of Wisconsin - Madison with Bachelor's degree on Computer Science.
-  Currently pursuing a way to ...
+  I am a recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
+  
 
 content:
   - title: Projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: OS-page replacement simulator
+        title: OS-page replacement simulator (Academic)
         quote: >
           https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
         description: | # this will include new lines to allow paragraphs
@@ -68,9 +67,11 @@ content:
           overall data structure workflow
           Successfully implemented the required feature and got expecting performance
           results from all three different algorithms
+          * OS 내에서 사용되는 여러 페이징 알고리즘 성능을 비교분석하는 프로그램 개발 (Linux 환경)
+          * 프로그램 구조 설계 및 프론트엔드 개발
       
       - layout: left
-        title: Madison Metro analysis module
+        title: Madison Metro analysis module (Academic)
         quote: >
           https://github.com/jsong96/Madison_metro
         description: | 
@@ -79,9 +80,10 @@ content:
           * Was able to visualize bus trips by route, compare weekend service to weekday
           service, and visualize bus stops, distinguishing which ones are wheelchair
           accessible
+          * 위스콘신 주 메디슨 시에서 운행중인 메트로 데이터를 사용해 메디슨 내 메트로를 visualize 해주는 python 모듈
 
       - layout: left
-        title: IoT Tracking Web Application
+        title: IoT Tracking Web Application (Academic)
         quote: >
           https://github.com/rachelhon/iot
         description: |
@@ -90,21 +92,30 @@ content:
           * I was responsible for backend developing using Node js, Express js and Mongo DB
           Successfully implemented user sign-in/up feature as well as REST API to send data
           back and forth with frontend layer
+          * Software Engineering 수업에서 진행했었던 Full-stack 웹 프로젝트
+          * Node JS와 Mongo DB를 사용해 로그인 기능과 서버 구현
 
       - layout: left
-        title: Full stack Note application
+        title: Full-stack Note Application (Personal)
         quote: >
           https://github.com/jsong96/reactnotes-frontend
+          https://github.com/jsong96/reactnotes-backend
+
         description: |
-          * Build a full-stack note application using Spring framework for the backend and React for the frontend to learn about Spring framework
-          * Successfully deployed the note application through Heroku
+          * Built a full-stack note application using Spring framework for the backend and React for the frontend
+          * React와 Spring 프레임워크를 사용해 개발한 간단한 노트 앱
+          * 백엔드 부분 Spring Boot와 Spring Data JPA를 사용해 노트 컴포넌트 구현
+          * 프론트엔드 부분 React와 Bootstrap를 사용해 인터페이스 구현
 
       - layout: left
-        title: Full stack E-commerce 
+        title: Full-stack E-commerce Application (personal)
         quote: >
           https://github.com/jsong96/e-commerce-frontend
+          https://github.com/jsong96/e-commerce-backend
         description: |
-          * TODO: working on description
+          * Built a full-stack e-commerce application using Spring Boot & Angular framework.
+          * Angular & Spring 프레임워크를 사용해 개발한 이커머스 앱
+          * 백엔드 부분 Spring Boot, Spring Data JPA, Spring Data REST, Spring Security를 사용해 유저 로그인기능과 서버 구현
 
   - title: Skill
     layout: list
@@ -135,9 +146,13 @@ content:
           * Introduction to Algorithm 
           * Introduction to Artificial Intelligence
           * Introduction to Programming languages and Compilers
+          * Introduction to Data structures
+          * Introduction to Cryptography
+          * Introduction to Computer Networks
           * Software Engineering
-          * Data Programming 
+          * Data Modeling & Programming
           * Database Management Systems
+          * Machine organization and programming
 
   - title: Experience
     layout: list
@@ -146,8 +161,9 @@ content:
         title: Military Police
         caption: 2017 - 2019 (CheongJu, Korea)
         sub_title: Military service
-        desciription: |
+        description: |
           * Served in Korean Airforce as a military police to fulfill my national duty
+          * 군복무기간동안 공군에서 헌병 보직으로 근무
 
   - title: A Little More About Me
     layout: text
