@@ -59,10 +59,10 @@ content:
         title: OS-page replacement simulator
         link: https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
         description: | # this will include new lines to allow paragraphs
-          Built an algorithm simulator to simulate performances of three different algorithms:
+          * Built an algorithm simulator to simulate performances of three different algorithms:
           Least Recently Used, Clock, First In First Out using C language in Linux environment
           with a partner
-          I was responsible for Implementing input file reading and parsing and designed the
+          * I was responsible for Implementing input file reading and parsing and designed the
           overall data structure workflow
           Successfully implemented the required feature and got expecting performance
           results from all three different algorithms
@@ -71,9 +71,9 @@ content:
         title: Madison Metro analysis module
         link: https://github.com/jsong96/Madison_metro
         description: | 
-          Built a python module that analyzes the Madison metro system using the matplotlib
+          * Built a python module that analyzes the Madison metro system using the matplotlib
           and pandas library
-          Was able to visualize bus trips by route, compare weekend service to weekday
+          * Was able to visualize bus trips by route, compare weekend service to weekday
           service, and visualize bus stops, distinguishing which ones are wheelchair
           accessible
 
@@ -81,9 +81,9 @@ content:
         title: IoT Tracking Web Application
         link:
         description: |
-          Participated in a semester-long team project to build a full-stack web application
+          * Participated in a semester-long team project to build a full-stack web application
           following the traditional waterfall workflow
-          I was responsible for backend developing using Node js, Express js and Mongo DB
+          * I was responsible for backend developing using Node js, Express js and Mongo DB
           Successfully implemented user sign-in/up feature as well as REST API to send data
           back and forth with frontend layer
 
@@ -91,7 +91,8 @@ content:
         title: Full stack Note application
         link: 
         description: |
-          This project is for ...
+          * Build a full-stack note application using Spring framework for the backend and React for the frontend to learn about Spring framework
+          * Successfully deployed the note application through Heroku
 
       - layout: left
         titel: Full stack E-commerce 
@@ -105,15 +106,17 @@ content:
       - layout: left
         title: Backend
         description: |
-          * Java 
-          * Spring Framework
-          * Node JS
+          * Java, Node JS (TypeScript)
+          * Spring Boot, Spring Data JPA, Spring MVC, Spring Data REST, Spring Security
+          * Hibernate, JPA
+          * Maven
+          * IntelliJ, Visual Studio Code
 
       - layout: left
         title: Frontend
         description: |
-          * React JS
-          * Angular JS
+          * React JS, Angular JS
+          * npm, yarn
 
   - title: Programming languages
     layout: list
@@ -136,24 +139,31 @@ content:
     content:
       - layout: left
         title: University of Wisconsin - Madison
-        caption: 2015- 2021
+        caption: 2015 - 2021
         sub_title: Computer Science
         description: |
           * Introduction to Algorithm 
-
           * Introduction to Artificial Intelligence
-
           * Introduction to Programming languages and Compilers
-
           * Software Engineering
+          * Data Programming 
+          * Database Management Systems
 
-          * Data Programming Data Management Systems
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Military Police
+        caption: 2017 - 2019 (CheongJu, Korea)
+        sub_title: Military service
+        desciription: |
+          Served in Korean Airforce as a military police to fulfill my national duty
 
   - title: A Little More About Me
     layout: text
     content: | 
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - League of Legends
+      - League of Legends 
       - Guitar and Bass 
 
 # Footer
