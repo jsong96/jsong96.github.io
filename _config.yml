@@ -21,7 +21,7 @@ github_username:  jsong96
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
+# instagram_username: 
 linkedin_username: https://www.linkedin.com/in/jiwon-song-a098a31b1/
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -105,14 +105,15 @@ content:
       - layout: left
         title: Backend
         description: |
-          <mark>* Java </mark>
-          <mark>* Spring </mark>
-          <mark>* Node JS </mark>
+          Java 
+          Spring Framework
+          Node JS 
 
       - layout: left
         title: Frontend
         description: |
-          In frontend, I can do ...
+          React JS
+          Angular JS
 
   - title: Programming languages
     layout: list
