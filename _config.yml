@@ -10,6 +10,7 @@ name: 송지원 (Jiwon Song)
 title: Software Developer
 email: woon7743@gmail.com
 website: www.jsong96.github.io
+phone number: (+82) 010-6248-6402 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -57,7 +58,8 @@ content:
     content:
       - layout: left
         title: OS-page replacement simulator
-        link: https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
+        quote: >
+          https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
         description: | # this will include new lines to allow paragraphs
           * Built an algorithm simulator to simulate performances of three different algorithms:
           Least Recently Used, Clock, First In First Out using C language in Linux environment
@@ -89,16 +91,16 @@ content:
 
       - layout: left
         title: Full stack Note application
-        link: 
+        link: https://github.com/jsong96/reactnotes-frontend
         description: |
           * Build a full-stack note application using Spring framework for the backend and React for the frontend to learn about Spring framework
           * Successfully deployed the note application through Heroku
 
       - layout: left
         titel: Full stack E-commerce 
-        link:
+        link: https://github.com/jsong96/e-commerce-frontend
         description: |
-          This project is for ...
+          * TODO: working on description
 
   - title: Skill
     layout: list
@@ -157,7 +159,7 @@ content:
         caption: 2017 - 2019 (CheongJu, Korea)
         sub_title: Military service
         desciription: |
-          Served in Korean Airforce as a military police to fulfill my national duty
+          * Served in Korean Airforce as a military police to fulfill my national duty
 
   - title: A Little More About Me
     layout: text
