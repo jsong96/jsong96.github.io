@@ -105,17 +105,15 @@ content:
       - layout: left
         title: Backend
         description: |
-          <mark>
           * Java 
           * Spring Framework
           * Node JS
-          <mark/> 
 
       - layout: left
         title: Frontend
         description: |
-          React JS
-          Angular JS
+          * React JS
+          * Angular JS
 
   - title: Programming languages
     layout: list
@@ -141,15 +139,15 @@ content:
         caption: 2015- 2021
         sub_title: Computer Science
         description: |
-          Introduction to Algorithm 
+          * Introduction to Algorithm 
 
-          Introduction to Artificial Intelligence
+          * Introduction to Artificial Intelligence
 
-          Introduction to Programming languages and Compilers
+          * Introduction to Programming languages and Compilers
 
-          Software Engineering
-          
-          Data Programming Data Management Systems
+          * Software Engineering
+
+          * Data Programming Data Management Systems
 
   - title: A Little More About Me
     layout: text
