@@ -46,7 +46,7 @@ linkedin_username: https://www.linkedin.com/in/jiwon-song-a098a31b1/
 
 # About Section
 about_title: About Me
-about_profile_image: images/java.jpg
+about_profile_image: images/java.png
 about_content: | # this will include new lines to allow paragraphs
   I am a recent graduate of University of Wisconsin - Madison with Bachelor's degree on Computer Science.
   Currently pursuing a way to ...
@@ -105,9 +105,11 @@ content:
       - layout: left
         title: Backend
         description: |
-          Java 
-          Spring Framework
-          Node JS 
+          <mark>
+          * Java 
+          * Spring Framework
+          * Node JS
+          <mark/> 
 
       - layout: left
         title: Frontend
