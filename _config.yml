@@ -50,7 +50,7 @@ about_profile_image: images/bucky.png
 about_content: | # this will include new lines to allow paragraphs
   I am a recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
   
-  열정을 가지고 백엔드의 길을 걷고 있는 신입개발자입니다.
+  열정을 가지고 백엔드의 길을 걷고 있는 신입개발자입니다
 
 content:
   - title: Projects
@@ -62,12 +62,8 @@ content:
         quote: > 
           https://github.com/jsong96/Madison_metro
         description: | 
-          * Built a python module that analyzes the Madison metro system using the matplotlib
-          and pandas library
-          * Was able to visualize bus trips by route, compare weekend service to weekday
-          service, and visualize bus stops, distinguishing which ones are wheelchair
-          accessible
           * 위스콘신 주 메디슨 시에서 운행중인 메트로 데이터를 사용해 메디슨 내 메트로를 visualize 해주는 python 모듈
+          * 사용 언어: Python
 
 
       - layout: left
@@ -76,15 +72,9 @@ content:
         quote: >
           https://github.com/jsong96/CS537/tree/main/OS-Page-replacement-simulator
         description: | # this will include new lines to allow paragraphs
-          * Built an algorithm simulator to simulate performances of three different algorithms:
-          Least Recently Used, Clock, First In First Out using C language in Linux environment
-          with a partner
-          * I was responsible for Implementing input file reading and parsing and designed the
-          overall data structure workflow
-          Successfully implemented the required feature and got expecting performance
-          results from all three different algorithms
           * OS 내에서 사용되는 여러 페이징 알고리즘 성능을 비교분석하는 프로그램 개발 (Linux 환경)
           * 프로그램 구조 설계 및 프론트엔드 개발
+          * 사용 언어: C
 
       - layout: left
         title: IoT Tracking Web Application (Academic)
@@ -92,13 +82,10 @@ content:
         quote: >
           https://github.com/rachelhon/iot
         description: |
-          * Participated in a semester-long team project to build a full-stack web application
-          following the traditional waterfall workflow
-          * I was responsible for backend developing using Node js, Express js and Mongo DB
-          Successfully implemented user sign-in/up feature as well as REST API to send data
-          back and forth with frontend layer
-          * Software Engineering 수업에서 진행했었던 Full-stack 웹 프로젝트
-          * Node JS와 Mongo DB를 사용해 로그인 기능과 서버 구현
+          * F3 Wireless 회사의 IoT Device 정보 조회를 위한 웹 어플리케이션 프로토타입 
+          * F3 Wireless 회사 API를 통해 Device 정보 조회 및 유저 로그인을 위한 서버 구현
+          * 사용 언어: Node js (Express)
+          * DB: MongoDB
 
       - layout: left
         title: Full-stack Note Application (Personal)
@@ -108,10 +95,9 @@ content:
           https://github.com/jsong96/reactnotes-backend
 
         description: |
-          * Built a full-stack note application using Spring framework for the backend and React for the frontend
-          * React와 Spring 프레임워크를 사용해 개발한 간단한 노트 앱
-          * 백엔드 부분 Spring Boot와 Spring Data JPA를 사용해 노트 컴포넌트 구현
-          * 프론트엔드 부분 React와 Bootstrap를 사용해 인터페이스 구현
+          * React와 Spring 프레임워크를 사용해 개발한 웹 노트 어플리케이션 
+          * 백엔드 부분 Spring Boot와 Spring Data JPA를 사용해 노트 데이터 구현
+          * 프론트엔드 부분 React와 Bootstrap를 사용해 유저 인터페이스 구현
 
       - layout: left
         title: Full-stack E-commerce Application (Personal)
@@ -120,9 +106,9 @@ content:
           https://github.com/jsong96/e-commerce-frontend
           https://github.com/jsong96/e-commerce-backend
         description: |
-          * Built a full-stack e-commerce application using Spring Boot & Angular framework.
-          * Angular & Spring 프레임워크를 사용해 개발한 이커머스 앱
+          * Angular & Spring 프레임워크를 사용해 개발한 풀스택 이커머스 어플리케이션
           * 백엔드 부분 Spring Boot, Spring Data JPA, Spring Data REST, Spring Security를 사용해 유저 로그인기능과 서버 구현
+          * 프론트엔드 부분 Angular & Bootstrap를 사용해 유저 인터페이스 구현
 
   - title: Skill
     layout: list
