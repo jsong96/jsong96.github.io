@@ -63,7 +63,8 @@ content:
           https://github.com/jsong96/Madison_metro
         description: | 
           * 위스콘신 주 메디슨 시에서 운행중인 메트로 데이터를 사용해 메디슨 내 메트로를 visualize 해주는 python 모듈
-          * 사용 언어: Python
+          * 메디슨 시 내에 버스 정류장 위치, 장애인 탑승 가능 정류장 위치를 지도에 구별해서 보여주는 모듈
+          * Demo: https://github.com/jsong96/Madison_metro/blob/master/demo.ipynb
 
 
       - layout: left
