@@ -48,9 +48,7 @@ linkedin_username: https://www.linkedin.com/in/jiwon-song-a098a31b1/
 about_title: About Me
 about_profile_image: images/bucky.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
-  
-  열정을 가지고 백엔드의 길을 걷고 있는 신입개발자입니다
+  Recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
 
 content:
   - title: Projects
