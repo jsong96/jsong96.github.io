@@ -45,10 +45,10 @@ linkedin_username: https://www.linkedin.com/in/jiwon-song-a098a31b1/
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
-about_profile_image: images/bucky.png
-about_content: | # this will include new lines to allow paragraphs
-  Recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
+#about_title: About Me
+#about_profile_image: images/bucky.png
+#about_content: | # this will include new lines to allow paragraphs
+#  Recent graduate of University of Wisconsin - Madison with a Bachelor's degree on Computer Science.
 
 content:
   - title: Projects
