@@ -98,17 +98,6 @@ content:
           * 백엔드 부분 Spring Boot와 Spring Data JPA를 사용해 노트 데이터 구현
           * 프론트엔드 부분 React와 Bootstrap를 사용해 유저 인터페이스 구현
 
-      - layout: left
-        title: Full-stack E-commerce Application (Personal)
-        caption: 12/2021 - 01/2022
-        quote: >
-          https://github.com/jsong96/e-commerce-frontend
-          https://github.com/jsong96/e-commerce-backend
-        description: |
-          * Angular & Spring 프레임워크를 사용해 개발한 풀스택 이커머스 어플리케이션
-          * 백엔드 부분 Spring Boot, Spring Data JPA, Spring Data REST, Spring Security를 사용해 유저 로그인기능과 서버 구현
-          * 프론트엔드 부분 Angular & Bootstrap를 사용해 유저 인터페이스 구현
-
   - title: Skill
     layout: list
     content:
